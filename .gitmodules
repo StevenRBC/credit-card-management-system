@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/StevenRBC/credit-card-management.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/StevenRBC/credit-card-api.git
