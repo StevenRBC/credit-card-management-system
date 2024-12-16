@@ -127,6 +127,21 @@ If you want to run the frontend and backend separately without Docker, refer to 
 - **Database**: PostgreSQL
 - **Containerization**: Docker, Docker Compose
 - **Server**: NGINX
+---
+
+## Documentation and Diagrams
+
+The detailed documentation for this project, including:
+
+- **Entity-Relationship Diagram (ERD)**
+- **Class Diagram**
+- **Sequence Diagrams**
+
+Can be accessed in the following link:
+
+- **[Documentation and Diagrams](https://docs.google.com/document/d/1hgjb_67UU_B8hA21AQs_-L9li56wlIqPKkADegCrBss/edit?usp=sharing)**
+
+Feel free to view or download the document for a complete overview of the project's design and implementation.
 
 ---
 
