@@ -61,10 +61,17 @@ credit-card-management-system/
 ## How to Run the Project
 This project uses **Docker Compose** to run both the frontend and backend as containers.
 
+### Important
+To clone the repository correctly with all its submodules, run the following command:
+```bash
+git clone --recurse-submodules https://github.com/StevenRBC/credit-card-management-system.git
+```
+This ensures that both the frontend and backend repositories are included.
+
 ### Steps to Run
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone --recurse-submodules https://github.com/StevenRBC/credit-card-management-system.git
    cd credit-card-management-system
    ```
 
@@ -160,4 +167,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - **Spring Boot** for robust backend APIs.
 - **Docker** for containerization.
 - **Bootstrap** for responsive design.
-
